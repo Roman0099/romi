@@ -1,0 +1,37 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "login as a User",
+        "description": "",
+        "id": "as-a-user-i-should-be-able-to-login;login-as-a-user",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "as a user i log in to CybertekTraining",
+            "match": {},
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@user"
+          }
+        ]
+      }
+    ],
+    "name": "As a user i should be able to login",
+    "description": "",
+    "id": "as-a-user-i-should-be-able-to-login",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/login.feature",
+    "tags": []
+  }
+]
